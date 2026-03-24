@@ -1,3 +1,5 @@
+# ===== LASAGNA INGREDIENT LIST MANAGER =====
+
 def load_list():
     try:
         with open("LasagnaList.txt", "r") as file:
